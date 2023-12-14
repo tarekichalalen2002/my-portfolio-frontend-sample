@@ -1,6 +1,8 @@
 # This is my portfolio guys
 A simple portfolio frontend designed for a fullstack web developer to showcase his skills in both frontend and backend developement.
 
+A live demo https://tarek-ichalalen.netlify.app/
+
 # A custom CMS will be added soon !
 
 # React + Vite
